@@ -12,5 +12,5 @@ Testuser is a third-year Ph.D. student from Southern University of Science and T
 
 Contact information
 ======
-[email] (testuser@mail.sustech.edu.cn)
+[email](testuser@mail.sustech.edu.cn)
 
